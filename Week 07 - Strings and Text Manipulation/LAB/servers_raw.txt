@@ -1,0 +1,5 @@
+"  Srv-01 , used=87 , total=100  ",
+    "SRV-02,USED=120,TOTAL=100",
+    "   srv-03 ,Used = 95 ,  Total=100   ",
+    "SRV-04 ,   used=40,total=200",
+    "srv-05 , used = 250 , total = 250",
