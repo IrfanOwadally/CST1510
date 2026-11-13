@@ -20,7 +20,6 @@ Delete these instructions as you replace them with your code.
 #    - the third  is a NUMBER (use float(), not int())
 #
 #    Remember: input() always gives back text.
-"""Getting values from a user."""
 #Prompt a user to enter the data
 label = input("Please enter the data: ")
 #Prompt a user to enter a first value
@@ -36,7 +35,6 @@ second = float(input("Please enter a second value: "))
 #    - percent    : the first as a percentage of the second
 #
 #    Do not type the answers. Calculate them.
-"""Calculate difference and percent."""
 #Do the maths operation
 difference = (second - first)  
 percent = ((first/second) * 100)
@@ -51,7 +49,7 @@ percent = ((first/second) * 100)
 #
 #    Useful:   f"{value:>10.2f}"    right-aligned, 2 decimal places
 #              f"{value:>+10.2f}"   the same, but always shows the sign
-"""Display the records."""
+
 print()
 #Creating an open interface
 print("=" * 34)
